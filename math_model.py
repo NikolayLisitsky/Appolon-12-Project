@@ -92,7 +92,7 @@ for i in range(len(stages)):
 
 # Корректировка коэффициентов
 height_correction_factor = 4
-speed_correction_factor = 6
+speed_correction_factor = 7
 
 # Открываем файл с данными из ksp
 with open("data.json", "r") as file:
